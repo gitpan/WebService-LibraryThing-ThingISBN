@@ -16,11 +16,11 @@ WebService::LibraryThing::ThingISBN - Get ISBNs for all editions of a book
 
 =head1 VERSION
 
-Version 0.501
+Version 0.502
 
 =cut
 
-our $VERSION = '0.501';
+our $VERSION = '0.502';
 
 =head1 SYNOPSIS
 
@@ -129,6 +129,9 @@ under the terms of either: the GNU General Public License as published
 by the Free Software Foundation; or the Artistic License.
 
 See http://dev.perl.org/licenses/ for more information.
+
+Use of the LibraryThing thingISBN API is governed by the terms of use
+listed at L<http://www.librarything.com/api>.
 
 =cut
 
