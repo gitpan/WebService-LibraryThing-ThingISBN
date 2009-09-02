@@ -16,16 +16,16 @@ WebService::LibraryThing::ThingISBN - Get ISBNs for all editions of a book
 
 =head1 VERSION
 
-Version 0.502
+Version 0.503
 
 =cut
 
-our $VERSION = '0.502';
+our $VERSION = '0.503';
 
 =head1 SYNOPSIS
 
 This is a Perl interface to the LibraryThing social cataloging
-website' thingISBN web service, which "takes an ISBN and returns a
+website's thingISBN web service, which "takes an ISBN and returns a
 list of ISBNs from the same 'work' (ie., other editions and
 translations)." The web service is freely available for noncommercial
 use, per the terms at L<http://www.librarything.com/api>.
